@@ -1,1 +1,3 @@
-console.log("Super Mario Bros 2!");
+const phrase = function(){
+    console.log("Super Mario Bros 2!");
+};
